@@ -5,5 +5,4 @@ torch
 torchvision
 pymatting
 opencv-python
-realesrgan
-basicsr
+super-image
