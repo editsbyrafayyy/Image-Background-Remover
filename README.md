@@ -1,4 +1,5 @@
 **Motivation Behind the Project**
+
 Most web-based background removal tools operate on a "freemium" model that presents two primary issues for professional design workflows:
 
 1. Resolution Degradation: Free tiers often restrict exports to low-resolution thumbnails (e.g., 0.25 megapixels), making the output unsuitable for print or high-quality digital assets.
