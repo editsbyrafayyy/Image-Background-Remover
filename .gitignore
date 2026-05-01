@@ -1,0 +1,32 @@
+# --- Python / Environment ---
+__pycache__/
+*.py[cod]
+*$py.class
+.myenv/
+venv/
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# --- IDE / Editors ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Machine Learning / Models ---
+models/
+*.onnx
+*.pth
+*.pth.tar
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+
+# --- Project Specific Data ---
+input/
+output/
+temp/

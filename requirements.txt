@@ -1,0 +1,9 @@
+"rembg[cli]"
+onnxruntime
+Pillow
+torch
+torchvision
+pymatting
+opencv-python
+realesrgan
+basicsr
